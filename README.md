@@ -1,8 +1,8 @@
 # Prueba Técnica realizada por Fernando Jose Carbajal Carbajal
 
 ## Descripción
-Se realizo la prueba tecnica como se solicito utilizando node.js (puede revisarlo solamente con ese apatado), a su vez le agregue un portal de usuario para que se pudiera visualizar y realizar las mismas acciones, pero por php.
-Para entrar al portal utilice cualquier "username" de la tabla "test_db"
+Se realizo la prueba tecnica como se solicito utilizando node.js (puede revisarlo solamente con ese apartado), a su vez le agregue un portal de usuario para que se pudiera visualizar y realizar las mismas acciones, pero por php.
+Para entrar al portal utilice cualquier "username" de la tabla "users"
 
 ## Tecnologías utilizadas
 - Node.js
